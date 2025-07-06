@@ -22,8 +22,3 @@ As the spaceship image is a square the hitboxes are not perfect.
 ### Show us what you’ve got!
 Improve our hitboxes and improve the aesthetics still maintaining the comical effect. Happy Coding!
 
-### Author
-1) Email: nishant.aklecha@gmail.com
-2) LinkedIn: https://www.linkedin.com/in/naklecha/
-3) HackerRank: https://www.hackerrank.com/NAklecha
-4) GitHub: https://github.com/Naklecha
